@@ -1,1 +1,1 @@
-yml highlighter-theme: monokai date_format: "%Y-%M-%D"
+remote_theme: mmistakes/minimal-mistakes
